@@ -1,2 +1,3 @@
-# task2_wf_f
-wells fargo forage task 2
+# Task 2 Starter Repo
+Contains Everything you need to get started on task 2 of Forage's Wells Fargo software engineering program
+# wells_fargo_forage_task2
